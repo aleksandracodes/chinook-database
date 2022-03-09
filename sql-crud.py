@@ -119,6 +119,7 @@ aleks_haniok = Programmer(
 #         print("Gender not defined")
 #     session.commit()
 
+
 # delete a single record
 # fname = input("Enter a first name: ")
 # lname = input("Enter a last name: ")
