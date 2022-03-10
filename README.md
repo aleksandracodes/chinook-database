@@ -1,3 +1,5 @@
+# Chinook database
+
 As part of my Diploma in Full Stack Software Development with Code Institute I've been learning:
 
 - about data, storage of data, Database Management System (DBMS), differences between relational and non-relational databases
